@@ -1,4 +1,4 @@
 ## Civa
 
-![Civa](https://raw.githubusercontent.com/Anapopo/Civa/master/Civa#1.png)
+![Civa](https://raw.githubusercontent.com/Anapopo/Civa/master/Civa%231.png)
 
